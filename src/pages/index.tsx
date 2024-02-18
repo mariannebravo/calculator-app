@@ -1,7 +1,9 @@
+import Homescreen from "@/components/home";
+
 export default function Home() {
   return (
     <main>
-      <h1>CALCUTATOR APP</h1>
+      <Homescreen />
     </main>
   );
 }
